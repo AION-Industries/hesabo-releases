@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "latest": {
+    "version": "1.0.0",
+    "build": 1,
+    "released": "2026-11-19T16:00:46Z",
+    "changelog_fa": [
+      "نصب و به‌روزرسانی امضاشده در نسخه‌ی sideload",
+      "بررسی خودکار به‌روزرسانی هنگام شروع برنامه، حداکثر یک بار در ۱۲ ساعت",
+      "نصب امن APK با بررسی امضای دیجیتال و SHA-256",
+      "پشتیبان‌گیری خودکار از پایگاه داده پیش از به‌روزرسانی ویندوز",
+      "نصب‌کننده‌ی تک‌فایلی ویندوز برای هر کاربر، بدون نیاز به دسترسی مدیر",
+      "پشتیبانی کامل از رابط راست‌به‌چپ و اعداد فارسی"
+    ],
+    "android": {
+      "arm64-v8a": {
+        "urls": [
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-1.0.0-arm64-v8a.apk"
+        ],
+        "sha256": "38f8b5dd0c574f703de21c896f5a90930838e8a00c0342116cb6ee5ab6437c28",
+        "size": 38206183
+      },
+      "armeabi-v7a": {
+        "urls": [
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-1.0.0-armeabi-v7a.apk"
+        ],
+        "sha256": "16cd43e7683fdd0dc904c6c3c3f5dd799db12d03fd2e42a589c0f1a64280858f",
+        "size": 35602695
+      },
+      "x86_64": {
+        "urls": [
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-1.0.0-x86_64.apk"
+        ],
+        "sha256": "3f3817edfde2ce64a597d65e68d7e37a89523f1f3709f2747e8d2200926efcec",
+        "size": 39706657
+      }
+    },
+    "windows": {
+      "urls": [
+        "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-Setup-1.0.0.exe"
+      ],
+      "sha256": "acd75a27fa9fcc18ba76879f62b198f73bab0342acda3587bb60a16a5bfcc9ea",
+      "size": 20208084,
+      "silent_args": [
+        "/VERYSILENT",
+        "/SUPPRESSMSGBOXES",
+        "/CLOSEAPPLICATIONS",
+        "/RESTARTAPPLICATIONS"
+      ]
+    }
+  },
+  "min_supported_build": 0,
+  "signature": "ZY7iyTnWkrNUlXKalAwt+0si2Dqge1px43u+Ye8sP/FYjRcW758yV8o0KYoHhA1wj/D1JuD4TtO4HENGoFXfDQ=="
+}
