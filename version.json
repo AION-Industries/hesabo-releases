@@ -3,7 +3,7 @@
   "latest": {
     "version": "1.1.0",
     "build": 3,
-    "released": "2026-11-20T07:16:56Z",
+    "released": "2026-11-20T14:47:37Z",
     "changelog_fa": [
       "تم روشن تازه با رنگ‌های اقیانوسی و کارت‌های شیشه‌ای؛ تم تیره همان کهکشان بنفش",
       "کارت‌های بانکی با گرادیان اختصاصی هر بانک، چرخش ورق‌زدنی و نمایش موجودی وسط کارت",
@@ -21,29 +21,29 @@
         "urls": [
           "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-arm64-v8a.apk"
         ],
-        "sha256": "5fe20d78cb1e2ad825a6ede3499298446369aa0d12879eec0a032acefaf618d2",
-        "size": 38420343
+        "sha256": "dfafab50a005e61eb79c67ac9ce3e65acf20dc574a88799c71d52cde447f51f7",
+        "size": 38420299
       },
       "armeabi-v7a": {
         "urls": [
           "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-armeabi-v7a.apk"
         ],
-        "sha256": "a04761e9995bd3bc3d7c525c0569319daa6b914533e14dc31a6c90653ea85302",
-        "size": 35816855
+        "sha256": "5a1512cfb47010a265030b8054906c6b29009cfd6b81796c6a4d814423e284e2",
+        "size": 35816811
       },
       "x86_64": {
         "urls": [
           "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-x86_64.apk"
         ],
-        "sha256": "9c25e78929f295b41c5465c3468d11e374776bfb35e47e32aa104102395ab815",
-        "size": 39855277
+        "sha256": "347446000506021994375bf9cb2fb1668c476a99bf061c87b03c324d1fd62fa2",
+        "size": 39855233
       }
     },
     "windows": {
       "urls": [
         "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-Setup-1.1.0.exe"
       ],
-      "sha256": "7bf39641d3c7bbda338c941ce0fea52f310778b9fdbb6c5b1aed88cd3210c39f",
+      "sha256": "5f0341f05eeec4daff20cdc1768ec808d616fb1ff3bb05e36d095a10b2e35ec9",
       "size": 20304991,
       "silent_args": [
         "/VERYSILENT",
@@ -54,5 +54,5 @@
     }
   },
   "min_supported_build": 0,
-  "signature": "PqpwumDHZX48dx1INiqxeoMem2lENfxgsVm2nj8+1OG/oQlh+n8DplOLBQSZxqNfCSYicafvf4O+3MlVJqQjCw=="
+  "signature": "il0E23N5I2xTanTvsak9Hm/oaCmYDiFD1bzkx/hGjCzyj0X6BOmLIW7ec+zjtf9S/WtZYwfVineI43SaCjAZBA=="
 }
