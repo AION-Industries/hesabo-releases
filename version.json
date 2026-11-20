@@ -1,46 +1,50 @@
 {
   "schema": 1,
   "latest": {
-    "version": "1.0.0",
-    "build": 1,
-    "released": "2026-11-19T16:00:46Z",
+    "version": "1.1.0",
+    "build": 3,
+    "released": "2026-11-20T07:16:56Z",
     "changelog_fa": [
-      "نصب و به‌روزرسانی امضاشده در نسخه‌ی sideload",
-      "بررسی خودکار به‌روزرسانی هنگام شروع برنامه، حداکثر یک بار در ۱۲ ساعت",
-      "نصب امن APK با بررسی امضای دیجیتال و SHA-256",
-      "پشتیبان‌گیری خودکار از پایگاه داده پیش از به‌روزرسانی ویندوز",
-      "نصب‌کننده‌ی تک‌فایلی ویندوز برای هر کاربر، بدون نیاز به دسترسی مدیر",
-      "پشتیبانی کامل از رابط راست‌به‌چپ و اعداد فارسی"
+      "تم روشن تازه با رنگ‌های اقیانوسی و کارت‌های شیشه‌ای؛ تم تیره همان کهکشان بنفش",
+      "کارت‌های بانکی با گرادیان اختصاصی هر بانک، چرخش ورق‌زدنی و نمایش موجودی وسط کارت",
+      "نمودار دونات ضخیم با انتخاب بخش‌ها و نمودار ستونی چاق با بازه‌های هفته، ماه و سال",
+      "دکمه‌های گرادیانی تازه، نوار پایین کپسولی و صفحه‌کلید مبلغ با خط «قابل خرج»",
+      "ردیف‌های تراکنش گرد و شیشه‌ای با تاریخ جلالی و ساعت فارسی",
+      "قفل برنامه با رمز ۴ یا ۶ رقمی جدا از رمز دستگاه، تأیید خودکار بدون دکمه",
+      "کد بازیابی یک‌بارمصرف برای وقتی رمزت را فراموش کردی",
+      "باز کردن با اثر انگشت یا چهره و گزینه‌ی کیبورد درهم در تنظیمات",
+      "قفل موقت پلکانی پس از ۵ رمز اشتباه که با بستن برنامه هم دور زده نمی‌شود",
+      "رعایت کامل کنتراست متن‌ها و چیدمان بدون سرریز در گوشی‌های باریک و متن درشت"
     ],
     "android": {
       "arm64-v8a": {
         "urls": [
-          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-1.0.0arm64-v8a.apk"
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-arm64-v8a.apk"
         ],
-        "sha256": "38f8b5dd0c574f703de21c896f5a90930838e8a00c0342116cb6ee5ab6437c28",
-        "size": 38206183
+        "sha256": "5fe20d78cb1e2ad825a6ede3499298446369aa0d12879eec0a032acefaf618d2",
+        "size": 38420343
       },
       "armeabi-v7a": {
         "urls": [
-          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-1.0.0-armeabi-v7a.apk"
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-armeabi-v7a.apk"
         ],
-        "sha256": "16cd43e7683fdd0dc904c6c3c3f5dd799db12d03fd2e42a589c0f1a64280858f",
-        "size": 35602695
+        "sha256": "a04761e9995bd3bc3d7c525c0569319daa6b914533e14dc31a6c90653ea85302",
+        "size": 35816855
       },
       "x86_64": {
         "urls": [
-          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-1.0.0-x86_64.apk"
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-x86_64.apk"
         ],
-        "sha256": "3f3817edfde2ce64a597d65e68d7e37a89523f1f3709f2747e8d2200926efcec",
-        "size": 39706657
+        "sha256": "9c25e78929f295b41c5465c3468d11e374776bfb35e47e32aa104102395ab815",
+        "size": 39855277
       }
     },
     "windows": {
       "urls": [
-        "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.0.0/Hesabo-Setup-1.0.0.exe"
+        "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-Setup-1.1.0.exe"
       ],
-      "sha256": "acd75a27fa9fcc18ba76879f62b198f73bab0342acda3587bb60a16a5bfcc9ea",
-      "size": 20208084,
+      "sha256": "7bf39641d3c7bbda338c941ce0fea52f310778b9fdbb6c5b1aed88cd3210c39f",
+      "size": 20304991,
       "silent_args": [
         "/VERYSILENT",
         "/SUPPRESSMSGBOXES",
@@ -50,5 +54,5 @@
     }
   },
   "min_supported_build": 0,
-  "signature": "ZY7iyTnWkrNUlXKalAwt+0si2Dqge1px43u+Ye8sP/FYjRcW758yV8o0KYoHhA1wj/D1JuD4TtO4HENGoFXfDQ=="
+  "signature": "PqpwumDHZX48dx1INiqxeoMem2lENfxgsVm2nj8+1OG/oQlh+n8DplOLBQSZxqNfCSYicafvf4O+3MlVJqQjCw=="
 }
