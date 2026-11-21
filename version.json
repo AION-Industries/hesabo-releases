@@ -1,10 +1,18 @@
 {
   "schema": 1,
   "latest": {
-    "version": "1.1.0",
-    "build": 3,
-    "released": "2026-11-20T14:47:37Z",
+    "version": "1.2.0",
+    "build": 4,
+    "released": "2026-11-21T13:57:53Z",
     "changelog_fa": [
+      "پنج قلم فارسی با مجوز آزاد (وزیرمتن، استعداد، شبنم، ساحل، صمیم) و انتخابگر قلم با پیش‌نمایش زنده",
+      "اندازه‌ی متن در چهار پله، هماهنگ با اندازه‌ی متن سیستم",
+      "ارقام فارسی یا لاتین در همه‌جا: مبلغ‌ها، تاریخ‌ها، نمودارها و صفحه‌کلید",
+      "نمایش واحد پول به سه شکل کلمه، نشان اختصاصی یا بدون واحد؛ سکه‌ی تزئینی تومان در تنظیمات",
+      "حلقه‌ی دونات سینمایی: با لمس هر بخش بزرگ می‌شود، می‌درخشد و بقیه کم‌رنگ می‌شوند",
+      "کارت اصلی سبک‌تر و روان‌تر؛ شمارش مبلغ بدون بازسازی اضافی",
+      "عملگرهای مینیمال برداری صفحه‌کلید مبلغ با خطوط نازک و گرد",
+      "صفحه‌ی مجوزها در تنظیمات > درباره، شامل متن کامل مجوز هر پنج قلم",
       "تم روشن تازه با رنگ‌های اقیانوسی و کارت‌های شیشه‌ای؛ تم تیره همان کهکشان بنفش",
       "کارت‌های بانکی با گرادیان اختصاصی هر بانک، چرخش ورق‌زدنی و نمایش موجودی وسط کارت",
       "نمودار دونات ضخیم با انتخاب بخش‌ها و نمودار ستونی چاق با بازه‌های هفته، ماه و سال",
@@ -19,32 +27,32 @@
     "android": {
       "arm64-v8a": {
         "urls": [
-          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-arm64-v8a.apk"
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.2.0/Hesabo-1.2.0-arm64-v8a.apk"
         ],
-        "sha256": "dfafab50a005e61eb79c67ac9ce3e65acf20dc574a88799c71d52cde447f51f7",
-        "size": 38420299
+        "sha256": "9cd4c7079938af3cb83fc62d2eac52db2b04331b218f61c993464514c214a363",
+        "size": 38912212
       },
       "armeabi-v7a": {
         "urls": [
-          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-armeabi-v7a.apk"
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.2.0/Hesabo-1.2.0-armeabi-v7a.apk"
         ],
-        "sha256": "5a1512cfb47010a265030b8054906c6b29009cfd6b81796c6a4d814423e284e2",
-        "size": 35816811
+        "sha256": "e76660edf9e3fa807a0e07bc2516be13173acd98e8baa6f9fb66994788d67aad",
+        "size": 36374256
       },
       "x86_64": {
         "urls": [
-          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-1.1.0-x86_64.apk"
+          "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.2.0/Hesabo-1.2.0-x86_64.apk"
         ],
-        "sha256": "347446000506021994375bf9cb2fb1668c476a99bf061c87b03c324d1fd62fa2",
-        "size": 39855233
+        "sha256": "4983e4befc93e11fe32507fe4e1009b79299de1b665c0e5c6f52002f7f025bb0",
+        "size": 40412682
       }
     },
     "windows": {
       "urls": [
-        "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.1.0/Hesabo-Setup-1.1.0.exe"
+        "https://github.com/AION-Industries/hesabo-releases/releases/download/v1.2.0/Hesabo-Setup-1.2.0.exe"
       ],
-      "sha256": "5f0341f05eeec4daff20cdc1768ec808d616fb1ff3bb05e36d095a10b2e35ec9",
-      "size": 20304991,
+      "sha256": "94de003714aa21f5132de4f3455b4225664e20482337829b4c336ca4841b4140",
+      "size": 20623054,
       "silent_args": [
         "/VERYSILENT",
         "/SUPPRESSMSGBOXES",
@@ -54,5 +62,5 @@
     }
   },
   "min_supported_build": 0,
-  "signature": "il0E23N5I2xTanTvsak9Hm/oaCmYDiFD1bzkx/hGjCzyj0X6BOmLIW7ec+zjtf9S/WtZYwfVineI43SaCjAZBA=="
+  "signature": "J0aX5fSG5Js5igGcWRYCOnjyOqJLPbx/tDVaQzw0CBtU9IxwvKL49bYd7KRK/zVJapxcfi51mnu/vtbumQOSBQ=="
 }
